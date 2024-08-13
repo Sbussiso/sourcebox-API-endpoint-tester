@@ -1,0 +1,7 @@
+Customer ID,First Name,Last Name,Email,Phone Number,Purchase Date,Product,Amount Spent
+101,John,Doe,johndoe@example.com,555-1234,2024-08-10,Smartphone,699.99
+102,Jane,Smith,janesmith@example.com,555-5678,2024-08-11,Laptop,999.50
+103,Bob,Brown,bobbrown@example.com,555-9012,2024-08-12,Headphones,199.99
+104,Alice,Johnson,alicejohnson@example.com,555-3456,2024-08-13,Smartwatch,249.99
+105,Charlie,Davis,charliedavis@example.com,555-7890,2024-08-14,Tablet,449.99
+106,Eva,Miller,evamiller@example.com,555-2345,2024-08-15,Camera,599.99
